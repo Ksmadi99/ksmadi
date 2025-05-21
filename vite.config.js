@@ -9,4 +9,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),  // Make sure this points exactly to ./src
     },
   },
+  console.log('Alias @ resolves to:', path.resolve(__dirname, './src'))
 })
