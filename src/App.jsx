@@ -1,6 +1,7 @@
 import { useState } from "react"; 
 import { Card, CardContent } from "@/components/ui/card";
 import { motion, AnimatePresence } from "framer-motion";
+import Card from './components/ui/card';
 
 const cardData = [
   {
