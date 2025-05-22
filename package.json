@@ -28,9 +28,5 @@
     "tailwindcss": "^4.1.7",
     "vite": "^4.5.14"
   }
-  "dependencies": {
-  "react": "^18.2.0",
-  "react-dom": "^18.2.0",
-  "framer-motion": "^x.y.z"
 }
-}
+
